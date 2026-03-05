@@ -41,7 +41,7 @@ Thumbs.db
 # =========================
 # Data / Model artifacts (DO NOT COMMIT)
 # =========================
-data/**
+#data/**
 # If you want to keep a tiny example dataset, uncomment:
 #!data/sample/**
 
@@ -49,7 +49,7 @@ data/**
 # Model artifacts (DO NOT COMMIT)
 # =========================
 
-models/**
+#models/**
 
 # =========================
 # Results (commit only small summary tables/figures)
