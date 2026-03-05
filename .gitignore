@@ -72,6 +72,7 @@ mlruns/**
 # Scratch (shared notes allowed; no binaries)
 # =========================
 
+scratch/kiyoshi/data/**
 
 # =========================
 # Temporary local files
